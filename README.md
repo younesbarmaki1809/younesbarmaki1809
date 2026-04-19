@@ -69,7 +69,6 @@ I enjoy building intelligent systems and exploring the intersection of AI and re
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_SVG_Logo.svg" height="40" alt="pytorch logo"  />
 </div>
 
 ### Tools & Frameworks
@@ -86,7 +85,6 @@ I enjoy building intelligent systems and exploring the intersection of AI and re
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" alt="openai logo"  />
 </div>
 
 
