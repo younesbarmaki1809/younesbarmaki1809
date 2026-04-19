@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Younes Barmaki</h1>
-<h3 align="center">AI Engineering Student | ML & Computer Vision Enthusiast</h3>
+<h3 align="center">AI Engineering Student | NLP & Computer Vision Enthusiast</h3>
 
 <div align="center">
 
@@ -24,11 +24,11 @@
 
 <div align="left">
   
-I'm an AI Engineering student at ENSIA with a passion for **Machine Learning, Computer Vision, and Full-Stack Development**.  
+I'm an AI Engineering student at ENSIA with a passion for **Machine Learning, NLP and  Computer Vision**.  
 I enjoy building intelligent systems and exploring the intersection of AI and real-world applications.
   
 - 🔭 **Currently working on:** ML projects & intelligent systems  
-- 🌱 **Currently learning:** Advanced NLP & MLOps  
+- 🌱 **Currently learning:** Advanced NLP.  
 - 💼 **Open to:** Collaborations & ML/AI opportunities  
 - 📫 **Reach me at:** younes.barmaki@ensia.edu.dz 
 
